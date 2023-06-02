@@ -1,0 +1,12 @@
+.max-width {
+    max-width: 18.75rem;
+}
+.filter-1 {
+    filter: invert(1);
+}
+.filter-0 {
+    filter: invert(0);
+}
+.size {
+    font-size: 3.125rem;
+}
