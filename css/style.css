@@ -10,3 +10,7 @@
 .size {
     font-size: 3.125rem;
 }
+.my-container {
+    width: 80%;
+    margin: 0 auto;
+}
