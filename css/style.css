@@ -14,3 +14,9 @@
     width: 80%;
     margin: 0 auto;
 }
+.my-dimension-link {
+    height: 3.125rem;
+    width: 3.125rem;
+    line-height: 3.125rem;
+    vertical-align: middle;
+}
